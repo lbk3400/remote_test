@@ -1,8 +1,23 @@
 <html>
 <body>
-	git : https://www.git-scm.com/download/win
-	git gui client information : https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools#Graphical_Interfaces
-	sourcetree (git gui) : https://www.sourcetreeapp.com , jira, confluence -> attlasian 
-	https://www.youtube.com/watch?v=Pzi_5lGP3G4&list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap
+	git : <a href="https://www.git-scm.com/download/win" target="blank" title="새창">https://www.git-scm.com/download/win</a>
+	git gui client information : <a href="https://www.git-scm.com/download/win"  target="blank" title="새창">https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools#Graphical_Interfaces</a>
+	sourcetree (git gui) : <a href="https://www.sourcetreeapp.com" target="blank" title="새창">https://www.sourcetreeapp.com</a> , jira, confluence -> attlasian 
+	<a href="https://www.youtube.com/watch?v=Pzi_5lGP3G4&list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap" target="blank" title="새창">git 생활코딩 동영상강의 on youtube</a>
+	
+	
+
+<h1>reset : </h1>
+	<h2>using mode : </h2>
+	<ul>
+		<li>soft : keep all local changes</li>
+		<li>mixed : keep working copy but reset index</li>
+		<li>hard : discard all working copy changes</li>
+	</ul>
+
+<h1>revert : reverse commit </h1>
+	sequencial reverse order;
+	
+			
 </body>
 </html>
