@@ -2,3 +2,7 @@ git : https://www.git-scm.com/download/win
 git gui client information : https://git.wiki.kernel.org/index.php/Interfaces,_frontends,_and_tools#Graphical_Interfaces
 sourcetree (git gui) : https://www.sourcetreeapp.com , jira, confluence -> attlasian 
 	download application
+	
+commit to git
+
+uncommited changes.
