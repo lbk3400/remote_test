@@ -17,6 +17,7 @@
 
 <h1>revert : reverse commit </h1>
 	sequencial reverse order;
+	may occurr conflict
 	
 			
 </body>
